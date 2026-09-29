@@ -1,0 +1,2 @@
+# Nature_Sustainability_GEE_IPYNB
+Manuscript for Nature Sustainability journal_GEE_IPYNB
